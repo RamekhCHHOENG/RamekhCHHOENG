@@ -1,6 +1,3 @@
-
-[![](./assets/header.png)](#)
-
 # Hello Hi ! 
 
 My name is Ramekh
