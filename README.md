@@ -116,6 +116,24 @@ My name is Ramekh
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+### about.js
+
+```TypeScript
+const remekh = {
+    pronouns: "he" | "him",
+    code: [TypeScript,Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "web3", "crypto", "music", "!coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["firebase", "node", 'express']
+        }        
+    }
+};
+```
+
   ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q)
