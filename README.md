@@ -55,6 +55,11 @@ My name is Ramekh
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
   
-  
+  ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q)
+<br/>
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RamekhCHHOENG&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamekhCHHOENG&layout=compact&count_private=true&theme=gruvbox" />
