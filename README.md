@@ -7,38 +7,38 @@ My name is Ramekh
 <a name="learning-now"></a>
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7d11f8?style=flat-square&logo=bootstrap&logoColor=white)
+  
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
   ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
    
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
-  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-  ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-  ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  
-  <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-  </p>
-  
   ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+  
+  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+  ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+  ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb)
+  ![Github Page](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&logo=github)
   
 ### 💻 Software and Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -48,9 +48,10 @@ My name is Ramekh
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+  ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=flat-square&logo=jira&logoColor=ffffff)
   
   <p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
