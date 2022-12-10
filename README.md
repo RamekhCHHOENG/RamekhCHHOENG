@@ -2,7 +2,7 @@
 
 My name is Ramekh
 
-### 🛠  Technologies and tools
+### 💻 Technologies 
 
 <a name="learning-now"></a>
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -25,9 +25,10 @@ My name is Ramekh
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
    
-<a name="learning-next"></a>
+<a></a>
 
-### 📖  What I am currently learning / improving on
+### 📖 What I am currently learning/improving 
+
   ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
@@ -41,7 +42,8 @@ My name is Ramekh
   
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   
-### 💻 Software and Tools
+### ⎔ Software and Tools
+
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -79,7 +81,7 @@ My name is Ramekh
 </p> -->
 
 
-  ### Dev Readme
+  ### 👨‍💻 Briefs
 
 ```TypeScript
 const remekh = {
@@ -108,7 +110,7 @@ const remekh = {
 
 ---
 
-  ### 📊 Github Stats
+  ### Github Stats 📊
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
