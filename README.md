@@ -88,7 +88,7 @@ My name is Ramekh
 const remekh = {
     pronouns: 'he' | 'him',
     code: [TypeScript, Javascript, Vuetify],
-    askMeAbout: ["Web Development", "Web 3", "music", "!coffee"],
+    askMeAbout: ['Web Development', 'Web 3', 'music', '!coffee'],
     technologies: {
         frontEnd: {
             css: ["vuetify", "bootstrap"]
