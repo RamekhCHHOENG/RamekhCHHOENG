@@ -18,8 +18,9 @@ My name is Ramekh
   ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Java](https://img.shields.io/badge/Java-%23F05138?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Swift]( https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white)
   
   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -58,8 +59,8 @@ My name is Ramekh
   ![Chrome](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
   ![Codelab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
   ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=black)
 
 <!-- <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
