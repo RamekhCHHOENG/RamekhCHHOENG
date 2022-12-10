@@ -122,7 +122,7 @@ My name is Ramekh
   </a>
 </details>
 
-### about.js
+  ### Dev Readme
 
 ```TypeScript
 const remekh = {
@@ -140,11 +140,14 @@ const remekh = {
 };
 ```
 
+![github snack](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github snack](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
   ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q)
-
-<img align="right" src=".assets/spotify.gif"/>
+<img align="right" src="./assets/spotify.gif" width="160px" />
 
 ---
 
