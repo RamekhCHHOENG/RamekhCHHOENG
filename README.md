@@ -143,6 +143,8 @@ const remekh = {
   ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q)
-<br/>
+
+<img align="right" src=".assets/spotify.gif"/>
+
 ---
 
