@@ -82,7 +82,7 @@ My name is Ramekh
 </p> -->
 
 
-  ### 👨‍💻 Briefs
+<!--   ### 👨‍💻 Briefs
 
 ```TypeScript
 const remekh = {
@@ -98,7 +98,7 @@ const remekh = {
         }        
     }
 };
-```
+``` -->
 
 ![github snack](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github snack](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
