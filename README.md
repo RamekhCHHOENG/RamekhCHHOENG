@@ -19,23 +19,21 @@ My name is Ramekh
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   
   ![Java](https://img.shields.io/badge/Java-%23F05138?style=flat-square&logo=java)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Kotlin]( https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)
   ![Swift]( https://img.shields.io/badge/Swift-%23F05138?style=flat-square&logo=swift&logoColor=white)
   
   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
    
-<a></a>
-
 ### 📖 What I am currently learning/improving 
-
+  
+  ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
   ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-  ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
   
-  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+  ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=webpack&logoColor=black&logoColor=white)
   ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
   ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
   
@@ -46,22 +44,22 @@ My name is Ramekh
   
 ### ⎔ Software and Tools
 
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-%23f84e28?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-%23238636?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=flat-square&logo=jira&logoColor=ffffff)
+  ![Click Up](https://img.shields.io/badge/-Click%20Up-%237B68EE?style=flat-square&logo=clickup&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=flat-square&logo=jira&logoColor=ffffff)
-  ![Click Up](https://img.shields.io/badge/-Click%20Up-%237B68EE?style=flat-square&logo=clickup&logoColor=ffffff)
   
-  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
   ![Github Page](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&logo=github)
   ![Chrome](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
   ![Codelab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
-  ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
   ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=black)
+  ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
 
 <!-- <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
@@ -108,8 +106,9 @@ const remekh = {
   ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q)
-<img align="right" src="./assets/spotify.gif" width="160px" />
-
+<a href="https://open.spotify.com/user/317cvejidxop75kruvmfomqtxs7q">
+  <img align="right" src="./assets/spotify.gif" width="160px" />
+</a>
 ---
 
   ### Github Stats 📊
