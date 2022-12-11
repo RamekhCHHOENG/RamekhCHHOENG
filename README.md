@@ -42,6 +42,7 @@ My name is Ramekh
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![Blockchain](https://img.shields.io/badge/Blockchain-%231755b8?style=flat-square&logo=blockchaindotcom&logoColor=white)
   
 ### ⎔ Software and Tools
 
