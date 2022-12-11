@@ -11,7 +11,7 @@ My name is Ramekh
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7d11f8?style=flat-square&logo=bootstrap&logoColor=white)
   
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCA28?style=flat-square&logo=javascript&logoColor=000000)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCA28?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
@@ -47,18 +47,18 @@ My name is Ramekh
   ![Git](https://img.shields.io/badge/-Git-%23f84e28?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-%23238636?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=flat-square&logo=jira&logoColor=ffffff)
-  ![Click Up](https://img.shields.io/badge/-Click%20Up-%237B68EE?style=flat-square&logo=clickup&logoColor=white)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23ff2757?style=flat-square&logo=intellijidea&logoColor=blac)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Chrome](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   
+  ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=flat-square&logo=jira&logoColor=ffffff)
+  ![Click Up](https://img.shields.io/badge/-Click%20Up-%237B68EE?style=flat-square&logo=clickup&logoColor=white)
+  
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=black)
   ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=white)
   ![Github Page](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&logo=github)
-  ![Chrome](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
   ![Codelab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
-  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=black)
   ![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)
 
 <!-- <p>
